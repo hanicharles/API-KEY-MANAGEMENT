@@ -1,6 +1,6 @@
 # 🔑 API Key Management System
 
-A full-stack web application to manage, monitor, and track real-time usage for all your AI API keys — inspired by [CodexBar](https://github.com/steipete/codexbar).
+A full-stack web application to manage, monitor, and track real-time usage for all your AI API keys — inspired by [CodexBar](https://github.com/steipete/codexbar)
 
 ![Stack](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green)
 ![Stack](https://img.shields.io/badge/Frontend-React-blue)
@@ -237,7 +237,3 @@ The system shows:
 - All API calls are made server-side (backend), not from the browser
 
 ---
-
-## License
-
-MIT — Inspired by [CodexBar](https://github.com/steipete/codexbar) by Peter Steinberger
